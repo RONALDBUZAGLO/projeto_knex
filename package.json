@@ -1,0 +1,19 @@
+{
+  "name": "projeto_knex",
+  "version": "1.0.0",
+  "description": "projeto_knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knex",
+    "Ronald"
+  ],
+  "author": "Ronald Buzaglo",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.95.2",
+    "mysql2": "^2.2.5"
+  }
+}
